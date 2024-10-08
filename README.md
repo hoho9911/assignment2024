@@ -1,2 +1,2 @@
 # assignment2024
-tableau and sql study 
+tableau and sql study
